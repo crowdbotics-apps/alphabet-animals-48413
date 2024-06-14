@@ -23,6 +23,7 @@
     "@modules/photo-editing": "file:./modules/photo-editing/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/splash": "file:./modules/splash/",
+    "@modules/terms-and-conditions": "file:./modules/terms-and-conditions",
     "@modules/user-profile": "file:./modules/user-profile/",
     "@modules/zoom-free-calling": "file:./modules/zoom-free-calling/",
     "@react-native-camera-roll/camera-roll": "5.0.2",
