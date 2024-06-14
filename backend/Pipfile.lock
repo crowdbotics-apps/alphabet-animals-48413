@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7401b78083c1569e6c71f2e8aea3406f804f231a39a3bfdd4a6292e358b0f36a"
+            "sha256": "890d453d68f21d21ab08a9275851c2b4032be619831872b1ac00644c7bbd43ea"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -111,6 +111,10 @@
         "cb-django-s3-file-uploader": {
             "editable": true,
             "path": "./modules/django_s3_file_uploader"
+        },
+        "cb-django-typeform-webhook": {
+            "editable": true,
+            "path": "./modules/django_typeform_webhook"
         },
         "certifi": {
             "hashes": [
@@ -388,6 +392,13 @@
             ],
             "index": "pypi",
             "version": "==4.0.8"
+        },
+        "django-jsonfield": {
+            "hashes": [
+                "sha256:ccb2fe623e1bf7799e49c593b0a89a85084ef8d3debbf26d92a54e27b5305d72",
+                "sha256:f789a0ea1f80b48aff7d6c36dd356ce125dbf1b7cd97a82d315607ac758f50ff"
+            ],
+            "version": "==1.4.1"
         },
         "django-storages": {
             "hashes": [
